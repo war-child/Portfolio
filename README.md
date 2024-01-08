@@ -1,2 +1,2 @@
 # portfolio-demo
-A demonstrative build of my prospective portfolio
+A demonstrative construct of my prospective personal portfolio
